@@ -1,0 +1,1 @@
+A simple GUI that can be used to quickly sort images into eight 45 degree segments around a unit circle. Additional functions provided for ROI finding, shuffling all images in a directory, and bordering images to allow for cases when the ROI is toward the edges of an image.
